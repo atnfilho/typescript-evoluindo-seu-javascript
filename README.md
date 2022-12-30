@@ -1,1 +1,3 @@
-Esse arquivo "README.md" pode ser deletado.
+Curso de Typescript da Alura. 
+
+Aplicação para controle de negociações.
